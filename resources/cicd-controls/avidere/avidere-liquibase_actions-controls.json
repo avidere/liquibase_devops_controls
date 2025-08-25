@@ -1,0 +1,17 @@
+{
+    "applicationName": "liquibase-poc",
+    "dbType": "MySQL",
+    "driver": "com.mysql.cj.jdbc.Driver",
+
+    "dev": {
+        "schemaName": "liquibase_poc_dev01",
+        "dbUrl": "jdbc:mysql://mysql-liquibase-poc.alwaysdata.net:3306/liquibase-poc_dev01",
+        "username": "427241",
+        "password": "liquibasepoc",
+        "vaultAddress": "https://vault-cluster-1-public-vault-399c773d.4213bc99.z1.hashicorp.cloud:8200",
+        "vaultNS": "admin/liquibase",
+        "vaultPath": "kv/data/MySQL/DEV/onlinebookstore"
+    }
+
+
+}
