@@ -10,7 +10,8 @@
         "password": "liquibasepoc",
         "vaultAddress": "https://vault-cluster-1-public-vault-399c773d.4213bc99.z1.hashicorp.cloud:8200",
         "vaultNS": "admin/liquibase",
-        "vaultPath": "kv/data/MySQL/DEV/onlinebookstore"
+        "vaultPath": "kv/data/MySQL/DEV/onlinebookstore",
+        "vaultToken": "hvs.CAESIPkDJm3SyRW5yvjGlhs9xRsa88p1WZ-8L3Ebsv6AVPM5GigKImh2cy41UzdkM0N1WVVyemM5NkJPV2RUdkRIZlQueDNqREEQs9wD"
     }
 
 
