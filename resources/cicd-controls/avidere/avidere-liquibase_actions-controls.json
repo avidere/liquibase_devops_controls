@@ -11,7 +11,6 @@
         "vaultAddress": "https://vault-cluster-1-public-vault-399c773d.4213bc99.z1.hashicorp.cloud:8200",
         "vaultNS": "admin/liquibase",
         "vaultPath": "kv/data/MySQL/DEV/onlinebookstore",
-        "vaultToken": "hvs.CAESIH1PWFhPNVnvW9q-Z7a72qKC1KBSFlkDe9QxtNF0VQKaGigKImh2cy5qSTYzSlNvU0ZLVmFOcFpqcUxFTng3UkQueDNqREEQmLsG"
     }
 
 
