@@ -11,6 +11,8 @@
         "vaultAddress": "https://vault-cluster-1-public-vault-399c773d.4213bc99.z1.hashicorp.cloud:8200",
         "vaultNS": "admin",
         "vaultPath": "kv/data/MySQL/DEV/onlinebookstore",
+        "licenseKey": "ABwwGgQU18QZF+C32ygHWHRga3VSHWIOfMACAgQAmZs33w+CEJvlOcYvZXk3TfSyf+NGWF5oqZCdYDNriAQjAhc5dgrddY6gRa4CDCDzpZhuK5mD64fKYxnxP/CcRyOYU50kDmHT14s3V6Kq0TZR8UeUtiHxV9CvcHr9V+cNGslW5tuelGq6111/89RiTEZ2MRpruc+xjwdhQV0WP+Xcikn8qsdVTNSU0dFrEc0lxnQT+S0NCkDEeVdsp9eWAp+/rXWN5StKC7QBAB/mixR37zNxxQuuqRkcdNU3ryO8thhrKzw3A9Tk++rRkwZhx72QaiaS69yk0+sfp6iiIzo3vsL8Jo5F5VIygL/pO4nczuM6kHA8GhsEkWDdbpD81qXFTLNXQEPf3dvSDnaY0zWmtSW0YkKBCRQNIA2sI3FEnDnvpYhFGsZjqDnqu+Bv2sjs0FkxQuH53cNKPLMSpFFrvTsGr9bBzhg0LqPSaF16xNmYZIzDW/8ddGcMiFKzdtTJpxTd6iERwXMmYNdvVnZMSwJri96BnAK8n4q7nm9gIeHXIytG5rmpP7P7MHOVBFpL0qfVED/huX+FcFQcDWNWU93389gYsuoesAWu5IbyCKmShB7e5ijlI9HGDoxOBxu67cxZli4cwhGMwrc2ayFq9tjICVRGOjxUegvvjYskcKceFjEhoOF+5zvgeVy831uKIRk/ihm8sXdGbwqM4R8="
+
 
     }
 
