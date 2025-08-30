@@ -14,5 +14,5 @@ def call(){
     env.vaultAddress = flags[envir]['vaultAddress']
     env.vaultNS = flags[envir]['vaultNS']
     env.vaultPath = flags[envir]['vaultPath']
-    env.VAULT_TOKEN = flags[envir]['vaultToken']
+    
 }
