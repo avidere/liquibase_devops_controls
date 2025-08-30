@@ -15,4 +15,8 @@ def call(){
     env.vaultNS = flags[envir]['vaultNS']
     env.vaultPath = flags[envir]['vaultPath']
     
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f9d4eedcadb18085d0a8cbc00f290d4cf141302f
