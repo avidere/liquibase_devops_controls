@@ -1,5 +1,5 @@
 def call(){
-    def devopsControlFile = libraryResource "cicd-controls/${projectKey}/${projectKey}-${repositoryName}-controls.json"
+    def devopsControlFile = libraryResource "cicd-controls/${projKey}/${projKey}-${gitRepo}-controls.json"
     def flags = readJSON text: devopsControlFile
 
     env.applicationName = flags['applicationName']
