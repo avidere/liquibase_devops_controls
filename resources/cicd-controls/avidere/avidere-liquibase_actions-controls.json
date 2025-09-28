@@ -4,7 +4,7 @@
     "driver": "com.mysql.cj.jdbc.Driver",
 
     "dev": {
-        "schemaName": "liquibase_poc_dev01",
+        "schemaName": "liquibase_demo",
         "driftApprover": "avinash,admin",
         "sqlApprover": "avinash,admin",
         "dbUrl": "jdbc:mysql://mysql-liquibase-poc.alwaysdata.net:3306/liquibase-poc_dev01",
