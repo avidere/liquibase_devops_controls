@@ -8,6 +8,9 @@ def call(){
 
 
     env.schemaName = flags[envir]['schemaName']
+    env.driftApprover = flags[envir]['driftApprover']
+    env.sqlApprover = flags[envir]['sqlApprover']
+
     env.dbUrl = flags[envir]['dbUrl']
     env.username = flags[envir]['username']
     env.password = flags[envir]['password']

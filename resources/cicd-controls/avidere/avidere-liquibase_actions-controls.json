@@ -5,6 +5,8 @@
 
     "dev": {
         "schemaName": "liquibase_poc_dev01",
+        "driftApprover": "avinash,admin",
+        "sqlApprover": "avinash,admin",
         "dbUrl": "jdbc:mysql://mysql-liquibase-poc.alwaysdata.net:3306/liquibase-poc_dev01",
         "username": "427241",
         "password": "liquibasepoc",
