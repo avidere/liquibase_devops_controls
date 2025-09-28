@@ -4,7 +4,7 @@ def call(){
 
     env.applicationName = flags['applicationName']
     env.driver = flags['driver']
-    env.dbType = flags['dbType']
+    env.DBType = flags['DBType']
 
 
     env.schemaName = flags[envir]['schemaName']

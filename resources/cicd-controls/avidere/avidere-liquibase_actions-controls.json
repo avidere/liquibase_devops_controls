@@ -1,6 +1,6 @@
 {
     "applicationName": "liquibase-poc",
-    "dbType": "MySQL",
+    "DBType": "MySQL",
     "driver": "com.mysql.cj.jdbc.Driver",
 
     "dev": {
