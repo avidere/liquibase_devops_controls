@@ -1,0 +1,17 @@
+{
+    "applicationName": "liquibase_oracle_db",
+    "DBType": "Oracle",
+    "driver": "oracle.jdbc.OracleDriver",
+
+    "dev": {
+        "schemaName": "liquibase_dev01",
+        "driftApprover": "avinash,admin",
+        "sqlApprover": "avinash,admin",
+        "vaultAddress": "https://liquibase-public-vault-b7156aa0.5e239cd0.z1.hashicorp.cloud:8200",
+        "vaultNS": "admin",
+        "vaultPath": "kv/data/Oracle/dev/liquibase_dev01",
+        "licenseKey": "ABwwGgQU7b4m7kCWggnujW31wG4BGpCiZNICAgQALBH0dmwSOUwW32OJxwumWfNVnnU96AF9C4Xrl6h43xKGYMBZcu+V+jj2QntbVhsFYrt6KKrIYnZbHdDLPWgW16o4TdlP0gQhakTv4yKCh6kHppVB+GYyiXEd5DZrdcLYeJMoyk0FLFYYrJ4VbkoUuUs21/WNKVxj/z7+hjeTMz6ZQeoSBU9MgMDZmwxv4aOHWSoRT1vWnWqsoMEFBVEG0p1yamL982W79waMAp3b0NvmmsT0YeOo4zA9pksSacqllUObd8EYuvBLxeSvBCDkgslJ4tUWLb27ULnrn+M2RS3qVlXzcvUs7UthlITfvTzWJ30FS17yKGbpb+lxhJdPrw3P9KqBNCH8qfEDQtADqvygyFvgUEl2dVTFA1bn3CikHO3FazWrGq6cbyRjLm12iNB5SR1zClsSSYlDZAjqI22xUwWfhtAvxABdLKj2KeYtspqTj3CdqmzIcmi4zBmI+PxH3XcRqqUKGGWfEcSwAG7fZbP3BThnzJje2fPNcCgL5FPNN+69PcN9Z9LoVEMb6TicoVsTHobkdzAoqS7qpQBsWYQqVQygzgnx9hr5G+roPZ2kmxNAniDMCR4aGNVD9Du8wkOHPxpKХhQs+40YvsWtkQR/ew2U1gOQ+BSIzAb0D0aOsrDhamJESqUeBq0YH3oLE9tq9TEg8pv8V4V2SDpXjwFII+wyUdTneCtc79kA"
+    }
+
+
+}
