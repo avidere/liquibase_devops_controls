@@ -18,6 +18,7 @@ def call(){
     env.vaultNS = flags[envir]['vaultNS']
     env.vaultPath = flags[envir]['vaultPath']
     
-
+    def parts = vaultNS.tokenize('/')
+    env.vaultcredId = "${parts[1]}_approle_${parts[0]}"
 }
 
