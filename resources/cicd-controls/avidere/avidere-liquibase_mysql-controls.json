@@ -4,7 +4,10 @@
     "driver": "oracle.jdbc.OracleDriver",
 
     "dev": {
-        "schemaName": "liquibase_dev01",
+        "schemaName": "avinash",
+        "dbUrl": "mysql-avinash.alwaysdata.net",
+        "username": "avinash",
+        "password": "A@vinash2412",
         "driftApprover": "avinash,admin",
         "sqlApprover": "avinash,admin",
         "vaultAddress": "https://liquibase-public-vault-b7156aa0.5e239cd0.z1.hashicorp.cloud:8200",
