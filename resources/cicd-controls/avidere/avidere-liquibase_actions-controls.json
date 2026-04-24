@@ -7,7 +7,7 @@
         "schemaName": "",
         "driftApprover": "avinash,admin",
         "sqlApprover": "avinash,admin",
-        "dbUrl": "jdbc:mysql://mysql-avinash.alwaysdata.net:30306/avinash",
+        "dbUrl": "jdbc:mysql://mysql-avinash.alwaysdata.net:30306/avinash_db",
         "username": "avinash",
         "password": "A@vinash2412",
         "vaultAddress": "https://vault-cluster-public-vault-55c72033.42256dc0.z1.hashicorp.cloud:8200",
